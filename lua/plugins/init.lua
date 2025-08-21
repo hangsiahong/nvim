@@ -68,7 +68,7 @@ return {
         -- Key mappings
         keymaps = {
           toggle = {
-            normal = "<leader>cc",     -- Main toggle
+            normal = "<leader>cc",     -- Main toggle (bottom split)
             terminal = "<C-x>",       -- Quick toggle in terminal
             variants = {
               continue = "<leader>cC", -- Continue conversation
